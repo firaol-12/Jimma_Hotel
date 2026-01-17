@@ -1,12 +1,59 @@
-# React + Vite
+# Jimma Hotel 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Jimma Hotel is a responsive sample hotel website designed to present hotel information, services, and room details with a clean user interface and smooth animations. The project focuses on user interaction, accessibility, and modern frvontend practices.
 
-Currently, two official plugins are available:
+## Key Features
+- Responsive design for desktop and mobile devices
+- Single-page experience for room details
+- Dedicated sections for Home, About, Services, and Contact
+- Room features and detailed room information pages
+- Customer interaction through a contact form
+- Smooth scroll and page animations using AOS
+- Direct booking via a “Call Now to Book” button
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- HTML
+- Tailwind CSS
+- React
+- AOS (Animate On Scroll)
+- EmailJS
+- Vite
 
-## Expanding the ESLint configuration
+## Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Home
+![Home](public/home.png)
+
+### About
+![About](public/about.png)
+
+### Services
+![Services](public/service.png)
+
+### Rooms (Single Page)
+![Rooms](public/room.png)
+
+### Room Features
+![Room Features](public/feature.png)
+
+### Contact
+![Contact](public/contact.png)
+
+### Responsive View
+![Responsive](public/responsive.png)
+
+## Note
+-This project is a sample / portfolio website
+-Booking is handled via phone call for simplicity
+-No online payment system included
+
+## Author
+### Firaol
+-Computer Science and Engineering Student | Web Developer | webAR Developer
+
+## 🚀 Run Locally
+```bash
+git clone https://github.com/firaol-12/Jimma_Hotel.git
+cd frontend
+npm install
+npm run dev
