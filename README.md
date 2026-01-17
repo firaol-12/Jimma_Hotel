@@ -51,7 +51,7 @@ Jimma Hotel is a responsive sample hotel website designed to present hotel infor
 ### Firaol
 -Computer Science and Engineering Student | Web Developer | webAR Developer
 
-## 🚀 Run Locally
+## Run Locally
 ```bash
 git clone https://github.com/firaol-12/Jimma_Hotel.git
 cd frontend
