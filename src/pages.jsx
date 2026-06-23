@@ -3,7 +3,7 @@ import React from "react";
 import Home from './pages/home'
 import About from './pages/about'
 import Rooms from './pages/rooms'
-import Survices from './pages/Survices'
+import Survices from './pages/survices'
 import Gallery from './pages/gallery'
 import Contact from './pages/contact'
 
